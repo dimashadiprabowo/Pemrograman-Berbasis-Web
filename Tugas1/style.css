@@ -1,0 +1,33 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+.nama {
+    color: red;
+    font-size: 40px;
+}
+
+.daftar-mata-kuliah {
+    list-style-type: upper-roman; /* untuk list menjadi angka romawi */
+    padding-left: 20px;
+}
+
+.mk-ketiga {
+    color: blue; /* Warna biru untuk list ketiga */
+    font-family: Arial, Helvetica, sans-serif; /* Font Arial untuk list ketiga */
+}
+
+blockquote {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    margin-top: 20px;
+    padding: 10px;
+    border-left: 4px solid #ccc;
+    background-color: #e9ecef;
+}
